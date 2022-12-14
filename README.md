@@ -3,8 +3,11 @@
 Integrantes:
 
 Adriel Lenner Vinhal Mori
+
 Igor Moreira Pádua
+
 Marcos Vinícius de Moraes
+
 Paulo Roberto Vieira
 
 ## Projeto IV/UFG Identificação: sistema de identificação visual de candidatos
