@@ -2,10 +2,10 @@
 
 Integrantes:
 
-Adriel Lenner Vinhal Mori
-Igor Moreira Pádua
-Marcos Vinícius de Moraes
-Paulo Roberto Vieira
+<br>Adriel Lenner Vinhal Mori</br>
+<br>Igor Moreira Pádua</br>
+<br>Marcos Vinícius de Moraes</br>
+<br>Paulo Roberto Vieira</br>
 
 ## Projeto IV/UFG Identificação: sistema de identificação visual de candidatos
 
