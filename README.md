@@ -15,10 +15,11 @@ Dito isso a proposta deste trabalho é desenvolver uma Inteligência Artificial,
 O Desafio é comparar duas imagens, inicialmente estáticas(fotos). Uma imagem estará armazenada em banco de dados, e terá alguns metadados(Nome, CPF, RG, etc.) vínculados à mesma. Ao inserirmos uma nova imagem o sistema deverá efetuar a comparação da "nova" imagem ou imagem de entrada com as existentes no banco de dados, a acurácia deve ser no mínimo de 80%, havendo reconhecimento, o sistema deverá apresentar a imagem reconhecida com as informações da pessoa, se não houver reconhecimento retornar mensagem explicando que não houve reconhecimento.
 
 ## Objetivo
-Criar uma IA utilizando código em python que analisa e compara duas imagens(fotos) para dizer se não as mesmas pessoas ou não.
+Criar uma IA utilizando código em python que analisa e compara duas imagens(fotos) para dizer se são as mesmas pessoas nas imagens ou não.
 
 ## Componentes
 Banco de Dados Relacional, Inteligência Artificial (Python+Jupyter)
+
 ## Projeto IV/UFG Identificação: sistema de identificação visual de candidatos
 
 <p align="center">
