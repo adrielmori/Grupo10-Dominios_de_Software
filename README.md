@@ -29,9 +29,8 @@ Banco de Dados Relacional, Inteligência Artificial (Python+Jupyter)
   <img src="https://uploaddeimagens.com.br/images/004/365/658/original/WhatsApp_Image_2023-02-23_at_22.26.22.jpeg?1677203613" width="1000" title="hover text">
 </p>
 
-<br> </br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82418789/207740096-f8599849-4b5e-426f-9adc-6b659d220104.png" width="750" title="hover text">
+  <img src="https://user-images.githubusercontent.com/40117861/221078734-366abd61-adfd-4716-ba47-2b4e281e54cd.jpg" width="750" title="hover text">
 </p>
 
 ## Pipeline Output
