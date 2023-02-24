@@ -34,7 +34,7 @@ Banco de Dados Relacional, Inteligência Artificial (Python+Jupyter)
   <img src="https://user-images.githubusercontent.com/82418789/207740096-f8599849-4b5e-426f-9adc-6b659d220104.png" width="750" title="hover text">
 </p>
 
-## Resultado
+## Pipeline Output
 <p align="center">
   <img src="https://user-images.githubusercontent.com/40117861/221073243-c0b26686-2c78-4b19-a633-42701d892c3d.gif" width="500" title="hover text">
 </p>
